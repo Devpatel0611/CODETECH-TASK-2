@@ -7,6 +7,9 @@
 
 ## Overview of the Project
 
+![image](https://github.com/user-attachments/assets/17a4c18c-1825-4700-962a-11c6359b0c2d)
+
+
 ## **Project:** Movie Review System using sentiment analysis
 
 ## Objective
